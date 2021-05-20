@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+main {
+    width: 550px;
+    margin: 0 auto;
+    padding: 1em;
+    text-align: center; 
+}
+
+.container {
+    display: flex;
+    justify-content:space-around;
+    
+}
+#speed, #play_pause {
+    background-color: lightgray;
+    padding: 10px 15px;
+    font-size: 15px;
+    border-radius: 3px;
+    border:none;
+}
+    
